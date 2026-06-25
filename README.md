@@ -1,6 +1,6 @@
 👋 Hi, I'm Rizwan Jahoor Shaikh — a B.E. AIML student and aspiring Data Scientist from Pune, India.
 
-🔗 Live Site: https://rizwanjahoor.github.io
+🔗 Live Site: https://buildbyrizwan.github.io
 
 🛠️ Built with: HTML5 | CSS3 | Vanilla JavaScript
 ✨ Features: Interactive UI, Particle animations, Skill bars, Project showcase, Contact form
